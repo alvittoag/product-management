@@ -1,0 +1,9 @@
+export { default as Header } from "./header/Header";
+export { default as Hero } from "./hero/Hero";
+export { default as HeroSvg } from "./hero/HeroSvg";
+export { default as FormProduct } from "./form/FormProduct";
+export { default as Input } from "./form/Input";
+export { default as ListProduct } from "./list-product/ListProduct";
+export { default as ItemProduct } from "./list-product/ItemProduct";
+export { default as Login } from "./auth/Login";
+export { default as Register } from "./auth/Register";
